@@ -1,0 +1,9 @@
+
+mv common /tmp71/swarm
+mv crypto /tmp71/swarm
+mv event  /tmp71/swarm
+mv logger /tmp71/swarm
+mv metrics /tmp71/swarm
+mv p2p /tmp71/swarm
+mv rlp /tmp71/swarm
+mv swarm /tmp71/swarm
